@@ -1,0 +1,11 @@
+/* CSS Selector - CSS da elementni tanlash */
+/* Element(tag) selector */
+h1 {
+  text-align: center;
+  color: blue;
+}
+p {
+  background-color: aqua;
+  color: brown;
+  text-align: center;
+}
